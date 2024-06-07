@@ -1,6 +1,8 @@
 ![logo](https://github.com/zishanazmi/zishanazmi/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jishaan Azmi</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3><br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+fullstack+web+developer+from+India" alt="Typing SVG" /></a>
+</p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zishanazmi&label=Profile%20views&color=0e75b6&style=flat" alt="zishanazmi" /> </p>
