@@ -1,4 +1,4 @@
-![logo](https://github.com/zishanazmi/zishanazmi/blob/main/LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jishaan Azmi</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jishaan-azmi/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+fullstack+web+developer+from+India" alt="Typing SVG" /></a>
